@@ -14,7 +14,7 @@ This repository contains a lot of useful resources and information about OG Fort
 
 
 > [!Important]
-⭐ means what I prefer, does not mean its the best.
+⭐ Means what I prefer, does not mean its the best.
 
 ## Hosted Servers/Projects
 > [!Note]
