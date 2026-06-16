@@ -1,22 +1,23 @@
 # awesome-ogfn
 
-
 ![Awesome](https://awesome.re/badge.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Twin1dev/awesome-ogfn)
 
 This repository contains a lot of useful resources and information about OG Fortnite, including private server projects, backends, launchers, build archives, and other community-made tools.
 
 ### Table of Contents
-| |  |  |
-| -------- | -------- | -------- |
-| [Hosted Servers/Projects](#Hosted-ServersProjects)     | [Self Hosted Servers/Projects](#Self-Hosted-ServersProjects-what-is-a-gameserver)     | [Open Source Backends](#Open-Source-Backends-what-is-a-backend)     |
-| [Open Source Launchers](#Open-Source-Launchers-what-is-a-launcher) | [Redirects](#Redirects-what-is-a-redirect) | [Windows Build Archives](#Fortnite-Windows-Build-Archives)
-| [Mobile Build Archives](#Mobile-Build-Archives) | [Console Build Archives](#Console-Build-Archives) | [Disclaimer](#Disclaimer)
 
+|                                                                    |                                                                                   |                                                                 |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Hosted Servers/Projects](#Hosted-ServersProjects)                 | [Self Hosted Servers/Projects](#Self-Hosted-ServersProjects-what-is-a-gameserver) | [Open Source Backends](#Open-Source-Backends-what-is-a-backend) |
+| [Open Source Launchers](#Open-Source-Launchers-what-is-a-launcher) | [Redirects](#Redirects-what-is-a-redirect)                                        | [Windows Build Archives](#Fortnite-Windows-Build-Archives)      |
+| [Mobile Build Archives](#Mobile-Build-Archives)                    | [Console Build Archives](#Console-Build-Archives)                                 | [Disclaimer](#Disclaimer)                                       |
+| [Modding Resources](#modding-resources)                            |
 
 > [!Important]
-⭐ Means what I prefer, does not mean its the best.
+> ⭐ Means what I prefer, does not mean its the best.
 
 ## Hosted Servers/Projects
+
 > [!Note]
 > Please do not open pull requests or issues asking me to add a server. DM me on discord @t1dv
 
@@ -69,6 +70,7 @@ This repository contains a lot of useful resources and information about OG Fort
 - ⭐ [uptodown archive (Android)](https://fortnite.en.uptodown.com/android/versions)
 
 ## Console Build Archives
+
 > [!Important]
 > These files are mostly unpatched, meaning you must modify them to redirect to your server. Console in specific is HIGHLY gatekept so producing your own unpatched pkg for Fortnite is very hard.
 >
@@ -76,6 +78,10 @@ This repository contains a lot of useful resources and information about OG Fort
 
 - ⭐ OrbisPatches (PS4) | [US](https://orbispatches.com/CUSA07022) | [EU](https://orbispatches.com/CUSA07669)
 - [Xbox Archive (Xader726)](https://github.com/Xader726/FortniteXboxBuilds)
+
+## Modding Resources
+
+- ⭐ [Fortnite Modding Hub](https://discord.gg/HwpJPE2RZw) - Tools, Tutorials, and Support for modding.
 
 ## Disclaimer
 
@@ -86,4 +92,5 @@ The inclusion of any project, server, website, or resource does not imply owners
 If you are the owner of any content referenced here and would like it removed or modified, please contact @t1dv on Discord.
 
 ## Credits
+
 Zenster - Formatting, writing the disclaimer, providing links.
