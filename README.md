@@ -26,6 +26,7 @@ This repository contains a lot of useful resources and information about OG Fort
 - [EZFN (Chapter 2, Season 2)](https://discord.gg/fortnitemobile)
 - [Era (Chapter 1, Season 8)](https://discord.gg/erafn)
 - [Eon (Chapter 2, Season 7)](https://discord.gg/eonfn)
+- [Neo (Not released, unknown season.)](https://discord.gg/neofn)
 
 ## Self Hosted Servers/Projects [(what is a gameserver?)](https://github.com/Twin1dev/awesome-ogfn/blob/main/GLOSSARY.md#gameserver)
 
