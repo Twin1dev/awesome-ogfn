@@ -83,6 +83,17 @@ This repository contains a lot of useful resources and information about OG Fort
 
 - ⭐ [Fortnite Modding Hub](https://discord.gg/HwpJPE2RZw) - Tools, Tutorials, and Support for modding.
 
+## Guides
+
+- [Adam's Gameserver Tutorial Series](https://www.youtube.com/playlist?list=PL3CtZseLLU7i33akmVs-QDvYnfjyi7npP)
+
+<details>
+<summary><strong>⚠️ Important Note About Adam's Guide</strong></summary>
+
+This tutorial series is somewhat outdated, as gameserver development has advanced significantly since it was created. However, it is still an excellent starting point for learning the basics of Fortnite gameserver development.
+
+</details>
+
 ## Disclaimer
 
 This repository is provided for educational, archival, and informational purposes only. None of the projects, servers, tools, or resources listed here are owned by, endorsed by, sponsored by, or affiliated with Epic Games, Inc.
