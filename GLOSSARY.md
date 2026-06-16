@@ -15,3 +15,8 @@ A backend, in OG Fortnite terms, is essentially an HTTP server that receives inc
 At their core, custom backends mimic Epic Games' API responses so that Fortnite can function properly outside of Epic's official services. This is necessary because older versions of Fortnite cannot operate correctly on Epic's current infrastructure due to various compatibility checks and unsupported services.
 
 These custom backends make Fortnite believe it is communicating with the official servers by providing the responses the game expects.
+
+# Launcher
+A launcher, in OG Fortnite terms, is a tool that allows users to start older versions of Fortnite without using the Epic Games Launcher.
+
+These launchers typically handle the setup process for redirects, start local backend services, and in some cases may also host game servers.
