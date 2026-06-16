@@ -11,7 +11,7 @@ This repository contains a lot of useful resources and information about OG Fort
 | [Hosted Servers/Projects](#Hosted-ServersProjects)                 | [Self Hosted Servers/Projects](#Self-Hosted-ServersProjects-what-is-a-gameserver) | [Open Source Backends](#Open-Source-Backends-what-is-a-backend) |
 | [Open Source Launchers](#Open-Source-Launchers-what-is-a-launcher) | [Redirects](#Redirects-what-is-a-redirect)                                        | [Windows Build Archives](#Fortnite-Windows-Build-Archives)      |
 | [Mobile Build Archives](#Mobile-Build-Archives)                    | [Console Build Archives](#Console-Build-Archives)                                 | [Disclaimer](#Disclaimer)                                       |
-| [Modding Resources](#modding-resources)                            |
+| [Modding Resources](#modding-resources)                            | [Guides](#guides)                                                                 |
 
 > [!Important]
 > ⭐ Means what I prefer, does not mean its the best.
