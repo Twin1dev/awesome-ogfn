@@ -55,7 +55,8 @@ This repository contains a lot of useful resources and information about OG Fort
 
 ## Windows Build Archives
 
-- ⭐ [ByZNexus' archive](https://github.com/ByZNexus/Fortnite-Versions)
+- ⭐ [FortForge Archive](https://www.fortforge.co.uk/builds)
+- [ByZNexus' archive](https://github.com/ByZNexus/Fortnite-Versions)
 - [simplyblk's archive](https://github.com/n6617x/Fortnitebuilds)
 - [Carbon archive](https://builds.cbn.lol/builds)
 - [Repressoh's archive](https://fn-builds.repressoh.it/)
@@ -66,8 +67,9 @@ This repository contains a lot of useful resources and information about OG Fort
 > [!Important]
 > These files are mostly unpatched, meaning you must modify them to redirect to your server. (Read redirects for help)
 
-- ⭐ [Repressoh's archive (iOS)](https://fn-builds.repressoh.it/IPAs/)
+- ⭐ [FortForge Archive (iOS)](https://www.fortforge.co.uk/builds/ios)
 - ⭐ [uptodown archive (Android)](https://fortnite.en.uptodown.com/android/versions)
+- [Repressoh's archive (iOS)](https://fn-builds.repressoh.it/IPAs/)
 
 ## Console Build Archives
 
@@ -77,6 +79,7 @@ This repository contains a lot of useful resources and information about OG Fort
 > I will make a guide on how to do this soon, will be provided in this repo.
 
 - ⭐ OrbisPatches (PS4) | [US](https://orbispatches.com/CUSA07022) | [EU](https://orbispatches.com/CUSA07669)
+- [FortForge Archive (Xbox)](https://www.fortforge.co.uk/builds/xbox)
 - [Xbox Archive (Xader726)](https://github.com/Xader726/FortniteXboxBuilds)
 
 ## Modding Resources
