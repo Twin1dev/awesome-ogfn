@@ -74,9 +74,7 @@ This repository contains a lot of useful resources and information about OG Fort
 ## Console Build Archives
 
 > [!Important]
-> These files are mostly unpatched, meaning you must modify them to redirect to your server. Console in specific is HIGHLY gatekept so producing your own unpatched pkg for Fortnite is very hard.
->
-> I will make a guide on how to do this soon, will be provided in this repo.
+> These files are mostly unpatched, meaning you must modify them to redirect to your server. Console in specific is HIGHLY gatekept so producing your own patched pkg for Fortnite is very hard.
 
 - ⭐ OrbisPatches (PS4) | [US](https://orbispatches.com/CUSA07022) | [EU](https://orbispatches.com/CUSA07669)
 - [FortForge Archive (Xbox)](https://www.fortforge.co.uk/builds/xbox)
