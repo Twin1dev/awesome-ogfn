@@ -21,7 +21,6 @@ This repository contains a lot of useful resources and information about OG Fort
 > [!Note]
 > Please do not open pull requests or issues asking me to add a server. DM me on discord @t1dv
 
-- [BYND (Chapter 1, Season X)](https://discord.gg/ogfn)
 - [Stellar (Chapter 2, Season 2)](https://discord.gg/stellarfn)
 - [Retrac (Chapter 2, Season 4)](https://discord.gg/retrac)
 - [EZFN (Chapter 2, Season 2)](https://discord.gg/fortnitemobile)
